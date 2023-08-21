@@ -1,4 +1,5 @@
 #include <vector>
+#include <string>
 
 void draw(std::vector<int> player_a, std::vector<int> player_b);
 bool check_win(std::vector<int> player);
